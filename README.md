@@ -43,5 +43,5 @@
 
 -   [x] Prompt Input (§2)
 -   [x] Variables (§3.1~3.2)
--   [ ] Control Flows (§3.5)
--   [ ] Structs (§5)
+-   [x] Control Flows (§3.5)
+-   [x] Structs (§5)
