@@ -43,5 +43,6 @@
 
 -   [x] Prompt Input (§2)
 -   [x] Variables (§3.1~3.2)
--   [x] Control Flows (§3.5)
+-   [x] Control Flows (§3.5, §6.2~6.3)
 -   [x] Structs (§5)
+-   [x] Enums (§6)

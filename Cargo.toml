@@ -9,6 +9,7 @@ edition = "2021"
 variables = {path = "./variables"}
 flow_control = {path = "./flow-control"}
 structs = {path = "./structs"}
+enums = {path = "./enums"}
 inputs = {path = "./inputs"}
 
 [workspace]
@@ -16,6 +17,7 @@ members = [
     "variables",
     "flow-control",
     "structs",
+    "enums",
     "inputs",
 ]
 
