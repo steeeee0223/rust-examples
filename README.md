@@ -46,3 +46,7 @@
 -   [x] Control Flows (§3.5, §6.2~6.3)
 -   [x] Structs (§5)
 -   [x] Enums (§6)
+-   [x] Packages, Crates, Modules (§7)
+    -   [x] Backyard - binary crate
+    -   [x] Restaurant - library crate
+    -   [x] Restaurant (New) - library crate (Recommended package structure)

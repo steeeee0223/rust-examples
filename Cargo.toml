@@ -11,6 +11,10 @@ flow_control = {path = "./flow-control"}
 structs = {path = "./structs"}
 enums = {path = "./enums"}
 inputs = {path = "./inputs"}
+backyard = {path = "./backyard"}
+restaurant = {path = "./restaurant"}
+restaurant_new = {path = "./restaurant_new"}
+
 
 [workspace]
 members = [
@@ -19,6 +23,9 @@ members = [
     "structs",
     "enums",
     "inputs",
+    "backyard",
+    "restaurant",
+    "restaurant_new",
 ]
 
 
