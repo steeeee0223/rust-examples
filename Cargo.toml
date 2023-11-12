@@ -14,6 +14,7 @@ inputs = {path = "./inputs"}
 backyard = {path = "./backyard"}
 restaurant = {path = "./restaurant"}
 restaurant_new = {path = "./restaurant_new"}
+collections = {path = "./collections"}
 
 
 [workspace]
@@ -26,6 +27,7 @@ members = [
     "backyard",
     "restaurant",
     "restaurant_new",
+    "collections"
 ]
 
 
