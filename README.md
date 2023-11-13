@@ -50,3 +50,4 @@
     -   [x] Backyard - binary crate
     -   [x] Restaurant - library crate
     -   [x] Restaurant (New) - library crate (Recommended package structure)
+-   [x] Exceptions (§8)

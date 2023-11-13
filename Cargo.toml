@@ -15,6 +15,7 @@ backyard = {path = "./backyard"}
 restaurant = {path = "./restaurant"}
 restaurant_new = {path = "./restaurant_new"}
 collections = {path = "./collections"}
+exceptions = {path = "./exceptions"}
 
 
 [workspace]
@@ -27,7 +28,8 @@ members = [
     "backyard",
     "restaurant",
     "restaurant_new",
-    "collections"
+    "collections",
+    "exceptions"
 ]
 
 

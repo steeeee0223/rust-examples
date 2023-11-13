@@ -16,3 +16,4 @@ Cargo.lock
 # Misc
 Icon?
 .DS_Store
+data/
