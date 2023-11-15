@@ -16,6 +16,7 @@ restaurant = {path = "./restaurant"}
 restaurant_new = {path = "./restaurant_new"}
 collections = {path = "./collections"}
 exceptions = {path = "./exceptions"}
+generics_traits = {path = "./generics-traits"}
 
 
 [workspace]
@@ -29,7 +30,8 @@ members = [
     "restaurant",
     "restaurant_new",
     "collections",
-    "exceptions"
+    "exceptions",
+    "generics-traits"
 ]
 
 
