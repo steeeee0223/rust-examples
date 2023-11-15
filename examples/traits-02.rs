@@ -1,4 +1,4 @@
-use generics_traits::{news_article::NewsArticle, summary::notify};
+use rust_examples::summary::{news_article::NewsArticle, notify};
 
 fn main() {
     println!("🎯 Traits Example - 2. Notify");

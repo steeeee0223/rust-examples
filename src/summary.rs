@@ -1,3 +1,6 @@
+pub mod news_article;
+pub mod tweet;
+
 pub trait Summary {
     fn summarize_author(&self) -> String;
 

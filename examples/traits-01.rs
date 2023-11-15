@@ -1,5 +1,4 @@
-use generics_traits::summary::Summary;
-use generics_traits::tweet::Tweet;
+use rust_examples::summary::{tweet::Tweet, Summary};
 
 fn main() {
     println!("🎯 Traits Example - 1. Summary");

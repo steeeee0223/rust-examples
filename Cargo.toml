@@ -6,32 +6,16 @@ edition = "2021"
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
 
 [dependencies]
-variables = {path = "./variables"}
-flow_control = {path = "./flow-control"}
-structs = {path = "./structs"}
-enums = {path = "./enums"}
-inputs = {path = "./inputs"}
 backyard = {path = "./backyard"}
 restaurant = {path = "./restaurant"}
 restaurant_new = {path = "./restaurant_new"}
-collections = {path = "./collections"}
-exceptions = {path = "./exceptions"}
-generics_traits = {path = "./generics-traits"}
 
 
 [workspace]
 members = [
-    "variables",
-    "flow-control",
-    "structs",
-    "enums",
-    "inputs",
     "backyard",
     "restaurant",
     "restaurant_new",
-    "collections",
-    "exceptions",
-    "generics-traits"
 ]
 
 

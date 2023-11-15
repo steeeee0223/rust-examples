@@ -1,5 +1,19 @@
-use structs::build_user;
-use structs::User;
+#![allow(unused)]
+struct User {
+    username: String,
+    email: String,
+    sign_in_count: u64,
+    active: bool,
+}
+
+fn build_user(username: String, email: String) -> User {
+    User {
+        username,
+        email,
+        active: true,
+        sign_in_count: 1,
+    }
+}
 
 fn main() {
     println!("🎯 This shows how we create and modify a struct");

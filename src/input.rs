@@ -10,9 +10,3 @@ pub fn handle_input() -> usize {
     let index: usize = index.trim().parse().expect("🚨 Invalid Input");
     return index;
 }
-
-#[cfg(test)]
-mod tests {
-    #[test]
-    fn it_works() {}
-}
