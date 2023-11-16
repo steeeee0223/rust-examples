@@ -37,6 +37,12 @@
 -   To run tests in package, use `cargo test -p <lib>`
     -   e.g. `cargo test -p variables` (This runs the tests in `./variables/src/lib.rs`)
 
+##### Mini Project - Minigrep
+
+-   Run: `cargo run -p minigrep -- <query> ./data/poem.txt`
+-   Run with env: `IGNORE_CASE=1 cargo run -p minigrep -- <query> ./data/poem.txt`
+-   Test: `cargo test -p minigrep`
+
 ### Learning Path
 
 💡 Learning from [Rust Lang-Book](https://doc.rust-lang.org/book/)
