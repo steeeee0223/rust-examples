@@ -50,4 +50,8 @@
     -   [x] Backyard - binary crate
     -   [x] Restaurant - library crate
     -   [x] Restaurant (New) - library crate (Recommended package structure)
--   [x] Exceptions (§8)
+-   [x] Collections (§8)
+-   [x] Exceptions (§9)
+-   [x] Generics, Traits & Lifetimes (§10)
+-   [ ] Mini Projects
+    -   [x] Minigrep (§12)

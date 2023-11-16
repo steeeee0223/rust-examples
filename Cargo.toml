@@ -9,6 +9,7 @@ edition = "2021"
 backyard = {path = "./backyard"}
 restaurant = {path = "./restaurant"}
 restaurant_new = {path = "./restaurant_new"}
+minigrep = {path = "./minigrep"}
 
 
 [workspace]
@@ -16,6 +17,7 @@ members = [
     "backyard",
     "restaurant",
     "restaurant_new",
+    "minigrep",
 ]
 
 
