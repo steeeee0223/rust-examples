@@ -61,3 +61,5 @@
 -   [x] Generics, Traits & Lifetimes (§10)
 -   [ ] Mini Projects
     -   [x] Minigrep (§12)
+-   [ ] Functional Features
+    -   [x] Closures
