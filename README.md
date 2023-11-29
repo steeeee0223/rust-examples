@@ -61,5 +61,7 @@
 -   [x] Generics, Traits & Lifetimes (§10)
 -   [ ] Mini Projects
     -   [x] Minigrep (§12)
--   [ ] Functional Features
+-   [ ] Functional Features (§13)
     -   [x] Closures
+    -   [ ] Iterator
+-   [x] Smart Pointers (§15)
